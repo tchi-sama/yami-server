@@ -1,0 +1,25 @@
+
+meal database
+
+{
+    name,
+    id,
+    description,
+    photos:[],
+    price,
+    creatingTime,
+    ***:[
+        {
+            name:size,
+            type:checkbox:
+            options:[
+                {
+                    name:small
+                    price
+                }
+            ]
+            selected:number,
+        }
+    ]
+}
+
